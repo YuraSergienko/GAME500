@@ -1,6 +1,6 @@
 # GAME500
 
-![Image](game500.jpg)
+<img src="game500.jpg" alt="GAME500">
 
 ROM картридж для компьютера "Вектор-06Ц"
 
