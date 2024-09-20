@@ -9,12 +9,12 @@ GAME500 - простое устройство для быстрой загруз
 заводское загрузочное ПЗУ без поддержки ROM картриджа, на GAME500 есть аудиовыход, который нужно поделючить к магнитофонному разъему "Вектора".
 При нажатии кнопки "PLAY" на GAME500, с него воспроизводится небольшая программка-загрузчик с поддержкой ROM картриджей.
 
-Содержание папок репозитория:
-box - stl модели корпусных деталей картриджа.
-doc - документация на изделие.
-flash - программа и файлы для подготовки bin файла для записи в флэш память W25Q128.
-gerber - GERBER файлы для производства печатной платы.
-hex - файл прошивки микроконтроллера CH32V103C8T6.
+Содержание папок репозитория:<br>
+box - stl модели корпусных деталей картриджа.<br>
+doc - документация на изделие.<br>
+flash - программа и файлы для подготовки bin файла для записи в флэш память W25Q128.<br>
+gerber - GERBER файлы для производства печатной платы.<br>
+hex - файл прошивки микроконтроллера CH32V103C8T6.>br>
 
 <b>ROM cartridge for the Vector-06C computer</b>
 
@@ -23,11 +23,11 @@ the tape recorder input. GAME500 emulates a ROM cartridge, which is supported by
 ROM cartridge support, the GAME500 has an audio output that needs to be connected to the Vector's tape recorder connector.
 When you press the "PLAY" button on the GAME500, a small bootloader program with ROM cartridge support is played from it.
 
-Repository folder contents:
-box - stl models of cartridge body parts.
-doc - product documentation.
-flash - program and files for preparing a bin file for writing to the W25Q128 flash memory.
-gerber - GERBER files for the production of the printed circuit board.
-hex - firmware file for the CH32V103C8T6 microcontroller.
+Repository folder contents:<br>
+box - stl models of cartridge body parts.<br>
+doc - product documentation.<br>
+flash - program and files for preparing a bin file for writing to the W25Q128 flash memory.<br>
+gerber - GERBER files for the production of the printed circuit board.<br>
+hex - firmware file for the CH32V103C8T6 microcontroller.<br>
 
 
