@@ -1,42 +1,48 @@
 _game500.rom File manager
+fdcosmos.rom ACongueteCosmos
 afterwar.rom After The War
+agress1.r0m Agressor
 airfight.rom Air Fighter
 AIDSJUN.ROM Aids! Jun
 AIDSMID.ROM Aids! Mid
 airforcs.rom Air Force
-alambush.rom Alien Ambush
 alfred.rom Alfred
-alibaba.rom Alibaba&40
+alibaba.rom Alibaba&40Thiev
+alambush.rom Alien Ambush
 apdig.rom Ap-Digger
 APEX.ROM Apex
 arkanoid.rom Arkanoid
+arkan4.rom Arkanoid mod
 asteroids.rom Asteroids
 assaut.rom Assaut
-bacbyl.rom Back by LSI
+park.rom Athletic Land
+bacbyl.rom Back
 barman.rom Barman
 Batle_Tank.rom Battle Tank
-best.rom Best Karate
+karate.rom BestOfTheBest
+best.rom BestOfTheBest+
+billy.rom Billy
 binland.rom Binary Land
 Binorum.rom Binorum
 blackjack_cas.rom BlackJack
 blaster.rom Blaster
-blasterj.rom Blaster J
 bomber.rom Bomber
+jungle_jps.rom Boogie Woogie J
 BORDHOLL.ROM Border-Hollow
-bouldd11.rom Boulder Dash 1
-bouldd22.rom Boulder Dash 2
-boulderd.rom Boulder Dash
-bouldush.rom Boulder Dash V
+bouldush.rom Boulder Dash
+boulderd.rom Boulder Dash2.0
+bouldd11.rom Boulder Dash1.1
+bouldd22.rom Boulder Dash2.2
+house.rom Break House
 BUSINESS.ROM Business
 caeon.rom Caeon
-canball.rom Cannon Ball
-cball.rom Cannon Ball2
-CAVE2.ROM Cave
+cball.rom Cannon Ball
 ceilon.rom Ceilon
-chasse.rom Chasse
 chaser.rom Chaser
+chasse.rom Chasse
 chesse.rom Cheese
 cheese2.rom Cheese2
+SHAHM2.ROM Chess-2
 chesmast2.rom Chess Master
 CHESMAST.ROM Chessmaster
 chipdale.rom Chip&Dale(alfa)
@@ -46,7 +52,7 @@ clrball_new.rom Color Ball New
 collines.rom Color Lines
 columns.rom Columns
 columns2.rom Columns 2
-columns3.rom Columns 3
+columns3.rom Columns IBM
 cookie.rom Cookie
 cooky2.rom Cooky-2
 cosman.rom Cosman
@@ -57,22 +63,173 @@ CYBERMUT.ROM Cyber Mutant
 cybernbr.rom Cybernoid
 dangerick.rom Dangerous Rick
 DATEAU.ROM Dateau
+DFIGHT.ROM Death Fight
+deathstr.rom Death Star
+pyr-df99.rom DeathInPyramid
+desolate.rom Desolate
 dcountry.rom Diamond Country
 dcountr2.rom DiamondCountry2
+dino1.rom Dino
+DIZZY-S.ROM Dizzy
+donkong.rom Donkey Kong
+DOWN.ROM Down To Earth
 DEAR-BST.ROM DownToEarth BST
 DEAR-RS.ROM DownToEarth RS
 DEAR-RSY.ROM DownToEarth RSY
-digger.rom Digger
-dino1.rom Dino
-DOWN.ROM Down To Earth
+DOWN1.ROM Down To Earth
 driller.rom Driller Tanks
-deathstr.rom Death Star
-desolate.rom Desolate
-DFIGHT.ROM Death Fight
-
-
 airman.rom Duble Airman
-
+dungeon.rom Dungeon
+eaglesn.rom Eagle Snest
+earth3.rom Earth Shaker
+efa.rom Efa
+ERASER.ROM Eraser
+eric.rom Eric & Floaters
+exolon.rom Exolon
+ExolonM2.rom Exolon M2
+fantom.rom Fantom
+fantom2.rom Fantom2
+FATAX.ROM Fatax
+FATAXCOL.ROM Fatax Color
+features.rom Features
+filer.rom Filer
+fire.rom Fire Rescue
+flight.rom Flight
+flyspirt.rom Flying Spirit
+football.rom Footbal
+forpostm.rom Forpost
+fortuna.rom Fortuna
+frogger.rom Frogger
+fuite.rom Fuite
+galaxan.rom Galaxan
+ghostbus.rom Ghostbusters
+global.rom Global Rally
+hairwarr.rom Hair Warrior
+harrier.rom Harrier
+helicopt.rom Helicopter
+indian.rom IndianNoBouken
+intercep.rom Intercepter
+karatet.rom Int. Karate T
+jetset.rom Jet Set Willy
+joeblade.rom Joe Blade
+jumpjack.rom Jump-Jek
+konfetti.rom Konfetti
+LABIRINT.ROM Labirynt
+LAND.ROM Land
+landing.rom Landing
+lapi.rom Lapi
+liberator.rom Liberator
+LODERUN.ROM Lode Runner
+loderun2.rom Lode Runner2
+LOGIC.ROM Logic
+LIFE.ROM Life
+macsit.rom Macsit
+magpap1.r0m Magic Paper
+mars.rom Mars
+MAZE.ROM Maze
+micmouse.rom Mickey Mous
+NICKCHES.ROM Mikes Chess
+mines.rom Mines
+mineswep.rom Mine Sweeper
+monstre.rom Monstre
+moonbase.rom Moonbase
+moonbugs.rom Moon Bugs
+mower.rom Mower
+TARZAN.ROM New Tarzan
+niagar.rom Niagara Falls
+ninja.rom Ninja Kage
+ohmummy.rom Oh, Mummy
+osciller.rom Osciller
+outrun.rom Outrun
+pacman.rom Pac-Man
+PACMNCLR.ROM Pac-Man Color
+pairs.rom Pairs
+pdizzy.rom Panic Dizzy
+PARITY.ROM Parity
+pif-paf.rom Pif-Paf
+pillars.rom Pillars
+pipedr.rom Pipe Dream
+pitongln.rom Piton GLN
+polygame.rom Polygame
+pool.rom Pool
+preda1im.rom Predator 1
+predato2.rom Predator 2
+psst.rom Psst
+pusher.rom Pusher
+push.rom Push
+putup.rom Putup
+raider.rom Raider
+RAIDER2.ROM Raider2
+ranger.rom Ranger
+REVSEX1.ROM Reverse Sex1
+REVSEX2.ROM Reverse Sex2
+REVERSI.ROM Reversi
+riseout.rom Riseout
+ROBBO1.ROM Robbo
+ROBBO2.ROM Robbo-II
+ROBBO3.ROM Robbo-III
+robotek.rom Roboteka
+rockman.rom Rock Man
+rockman2.rom Rock Man2
+rockman16.rom Rock Man16
+rockford.rom Rockford
+rotors.rom Rotors
+runner.rom Runner
+runer_ok.rom Runner OK
+SABOTEUR.ROM Saboteour
+salesman.rom Salesman
+seggs.rom Scramble Eggs
+sherly.rom Sherly
+shoptour.rom Shop Tour
+sidearm.rom Side Arm
+snake.rom Snake
+snake2.rom Snake2
+sland.rom Snare Land
+SOBDOG.ROM Sobdog
+spcdemon.rom Space Demon
+SPMEGAIM.ROM Space Megatron
+spacop.rom Spacor
+sdemise.rom Spy's Demise
+stalker.rom Stalker
+STARWARS.ROM Star Wars
+starfighter.rom Starfighter
+stars.rom Stars
+stars2.rom Stars II
+stepjump.rom Step And Jump
+STINGER2.ROM Stinger 2
+stonkers.rom Stonkers
+iexpress.rom Stop Express
+sgibbon.rom Super Gibbon
+maric.rom Super Maric
+superwea.rom Super Weapon
+tankbat.rom Tank Battalion
+tankwars.rom Tank Wars
+terminus.rom Terminus
+tetrisk.rom Tetris K
+RUNERMAN.ROM The Ranner Man
+tower.rom Tower
+TRANSMUT.ROM Trans Muter
+TRIP.ROM Trip
+tron.rom Tron
+TUTANKH2.ROM Tutankhamun
+upriver.rom Up The River
+w1.rom W-1
+WAMPIRL.ROM Wampir Land
+warp.rom Warp, Warp
+westbank.rom West Bank
+whouse.rom Wonder House
+xorz.rom Xorz
+xonix.rom Xonix
+XONIXS.ROM Xonix S
+xonixsn.rom Xonix SN
+xonix_copy.rom Xonix OK
+xyzolog.rom Xyzolog
+zodiac.rom Zodiak
+sokoban.rom Zoko-Ban
+xzone.rom Zone X
+ZORYT.ROM Zoryt
+ochko101.rom 101 Очко
+semvinej.rom 7 Виней
 abrams.rom Абрамс
 ADSKOK.ROM Адскок
 akula.rom Акула
@@ -81,326 +238,200 @@ ambalm.rom Амбал-М
 arktika.rom Арктика
 arktika_.rom Арктика2
 armiya8.rom Армия 8
-arkan4.rom Арканоид 4
 ATNINJA.ROM Атака Ниндзя
 BILLIARD.ROM Биллиард
+boldercr.rom Болдер
 bolder2.rom Болдер 2
 bolderm.rom Болдер-М
+bolderpp.rom Болдер++
 bombard.rom Бомбардировщик
 BRONEVIK.ROM Броневик
 burya.rom Буря в пустыне
-CRITTERS.ROM Зубастики
+vertolet.rom Вертолёт
+vodolaz.rom Водолаз
+vozdshar.rom Воздушный Шар
+voleybol.rom Волейбол
+vorishka.rom Воришка
+gpatrul.rom Гала Патруль
+gomoku.rom Го-Моку
+golkiper.rom Голкипер
+grotohod.rom Гротоход
 dengolos.rom Деньголов
-
+digger.rom Диггер
+dizzi.rom Диззи
+doroga.rom Дорога
+irworld.rom Железный мир
+LIFE2.ROM Жизнь
+zamok.rom Замок
+spacewar.rom Звездные Войны
+sranger.rom Звездный Ренжер
+ZPLANETA.ROM Зеленая Планета
+ZONA.ROM Зона Будущего
+CRITTERS.ROM Зубастики
+istrebit.rom Истребитель
+jeti.rom Йети
+jeti2.rom Йети 2
+karti.rom Карты
+karateka.rom Каратека
+karatek.rom Каратэ
+kvadrati.rom Квадраты
+kirash.rom Кираш
+KIJANKA.ROM Киянка
+KIJANKA2.ROM Киянка 2
+KLAD.ROM Клад
+klad2.rom Клад2
+KLETKA.ROM Клетка
+kobra.rom Кобра
+KOLOBEG.ROM Колобег
+KOLOPUNC.ROM Колобок
+kolobiha.rom Колобиха
 commandz.rom Коммандер
-CAT41.ROM Кошка Мышь
-desant.rom Парашютисты
-
+kotprigun.rom Кот-прыгун
+kotribolov_copy.rom Кот-рыболов
+kresnull.rom Крестики-Нолики
+labir1.rom Лабиринт-1
+lender.rom Лэндер
+lendern.rom Лэндер-Н
+MAGSHAR.ROM Магический Шар
+mirsm.rom Мир Смерти
+mohotnik.rom Морской Охотник
+mohotni2.rom МорскойОхотник2
+NARDI.ROM Нарды
+nashchha.rom Нашествие
+nupogodi.rom Ну, Погоди
+ochko.rom Очко
+ohota.rom Охота
+parashut.rom Парашютисты
+pasjansi.rom Пасьянсы
+pakmanen.rom Пекманёнок
+pecshera.rom Пещера
+PESCHER1.ROM Пещера 2
+pesprizr.rom Пещера Призраков
+PITON.ROM Питон Успид
+pitong.rom Питон
+PLANETA.ROM Планета Птиц
+poddavki.rom Поддавки
+poker.rom Покер
+polet.rom Полёт
+popcorn.rom Попкорн
+poprigun.rom Попрыгунчик
+posad06c.rom Посадка
+POHIWANA.ROM ПохожденияИвана
+PREZID.ROM Президент
+PRUZASOV.ROM ПрограммаУжасов
+plifter.rom Пьяный Лифтёр
+incurzion.rom Рива Рейд
+SHASHKI.ROM Русские Шашки
+rembo.rom Рэмбо
+sabotaz.rom Саботаж
+samuray.rom Самурай
+spacesaf.rom СафариЗаВампирм
+SEKA.ROM Сека
+slalom.rom Слалом
+sokoban_copy.rom Сокобан
+sokzamka.rom Сокровища Замка
+faraon.rom СокровищФараона
+spichki.rom Спички
+spsmerti.rom Спутник Смерти
+spgroup1.rom Спецгруппа
+sragen1.rom Сражение
+sragen2.rom Сражение 2
+srazsnlo.rom Сражение с НЛО
+ot.rom Старая Башня
+SUPKALAH.ROM Супер Калах
+TANK.ROM Танк 
+tennis_copy.rom Теннис
+tetris.rom Тетрис
+tetrisii.rom Тетрис II
+tetriso.rom Тетрис-О
+tetrisok.rom Тетрис-ОК
+tetrisp.rom Тетрис-П
+tir.rom Тир
+trutni.rom Трутни
+turboudav.rom Турбоудав
+UGOLKI.ROM Уголки
+uzas1.rom Ужас 1
+uzas2.rom Ужас 2
+UZAS3.ROM Ужас 3
+flyer.rom Флаер
+formula1.rom Формула 1
+himiya.rom Химия
+cvkvadr.rom Цветные квадрат
 circus.rom Цирк
 chsund1.rom Чудо Сундук1
 chsund2.rom Чудо Сундук2
 chsund3.rom Чудо Сундук3
-cvkvadr.rom Цветные квадрат
-dizzi.rom Диззи
-DIZZY-S.ROM Dizzy
-donkong.rom Donkey Kong
-doroga.rom Дорога
-DOWN1.ROM Down To Earth
-dungeon.rom Dungeon
-elkubiki.rom Электр. Кубики
-exolon.rom Exolon
-ExolonM2.rom Exolon M2
-eaglesn.rom Eagle Snest
-earth3.rom Earth
-efa.rom Efa
-ERASER.ROM Eraser
-eric.rom Eric & Floaters
-fantom.rom Fantom
-fantom2.rom Fantom2
-faraon.rom СокровищФараона
-filer.rom Filer
-flight.rom Flight
-football.rom Footbal
-formula1.rom Formula One
-forpostm.rom Forpost
-FATAX.ROM Fatax
-FATAXCOL.ROM Fatax Color
-fdcosmos.rom Conquete cosmos
-features.rom Features
-fire.rom Fire Rescue
-flyer.rom Флаер
-flyspirt.rom Flying Spirit
-fortuna.rom Fortuna
-frogger.rom Frogger
-fuite.rom Fuite
-galaxan.rom Galaxan
-ghostbus.rom Ghostbusters
-global.rom Global Rally
-golkiper.rom Голкипер
-golos.rom Голос
-gomoku.rom Го-Моку
-grotohod.rom Гротоход
-gpatrul.rom Гала Патруль
-hairwarr.rom Hair Warrior
-harrier.rom Harrier
-helicopt.rom Helicopter
-himiya.rom Химия
-house.rom Breack House
-iczin.rom Ицзин
-iexpress.rom Stop Express
-incurzion.rom Рива Рейд
-indian.rom IndianNoBouken
-irworld.rom Железный мир
-intercep.rom Intercepter
-istrebit.rom Истребитель
-jeti.rom Йети
-jeti2.rom Йети 2
-jetset.rom Джэт-Сэт
-joeblade.rom Joe Blade
-jumpjack.rom Jump-Jek
-jungle.rom Jungle
-karate.rom Karate
-karatek.rom Каратэ
-karti.rom Карты
-karateka.rom Каратека
-karatet.rom Karate T
-KIJANKA.ROM Киянка
-KIJANKA2.ROM Киянка 2
-KLASSHES.ROM Шахматы
-kobra.rom Кобра
-komar.rom Комар
-kotprigun.rom Кот-прыгун
-kresnull.rom Крестики-Нолики
-kirash.rom Кираш
-KLAD.ROM Клад
-klad2.rom Клад2
-KLETKA.ROM Клетка
-KOLOBEG.ROM Колобег
-kolobiha.rom Колобиха
-KOLOPUNC.ROM Colopunk
-konfetti.rom Konfetti
-kotribolov_copy.rom Кот-рыболов
-kvadrati.rom Квадраты
-LABIRINT.ROM Labirynt
-labir1.rom Лабиринт-1
-loderun2.rom Lode Runner New
-LAND.ROM Land
-landing.rom Landing
-lapi.rom Lapi
-lender.rom Лэндер
-lendern.rom Лэндер-Н
-liberator.rom Liberator
-LIFE.ROM Life
-LIFE2.ROM Жизнь
-LODERUN.ROM Lode Runner
-LOGIC.ROM Logic
-macsit.rom Macsit
-mad.rom Mad MusicEditor
-MAGSHAR.ROM Магический Шар
-mars.rom Mars
-MAZE.ROM Maze
-micmouse.rom Mickey Mous
-MICROGR.ROM Micrograf
-mines.rom Mines
-mineswep.rom Mine Sweeper
-mirsm.rom Мир Смерти
-mohotnik.rom Морской Охотник
-mohotni2.rom МорскойОхотник2
-monstre.rom Monstre
-moonbase.rom Moonbase
-moonbugs.rom Moon Bugs
-mower.rom Mower
-maric.rom Super Maric
-NARDI.ROM Нарды
-nashchha.rom Нашествие
-niagar.rom Niagara Falls
-NICKCHES.ROM Mikes Chess
-ninja.rom Ninja Kage
-nupogodi.rom Ну, Погоди
-object3d.rom 3D Объекты
-ot.rom Old Tower
-organ1.rom Organ
-osciller.rom Osciller
-ochko.rom Очко
-ochko101.rom 101 Очко
-ohmummy.rom Oh, Mummy
-ohota.rom Охота
-outrun.rom Outrun
-pacman.rom Pac-Man
-pairs.rom Pairs
-pakmanen.rom Пекманёнок
-PARITY.ROM Parity
-park.rom Athletic Land
-pasjansi.rom Пасьянсы
-pdizzy.rom Panic Dizzy
-pdt-112.rom Психол. Тест
-pecshera.rom Пещера
-PESCHER1.ROM Пещера2
-pesprizr.rom Пещера Призраков
-pillars.rom Pillars
-pipedr.rom Pipe Dream
-PITON.ROM Питон Успид
-pitong.rom Питон
-pitongln.rom Piton GLN
-PLANETA.ROM Планета Птиц
-plifter.rom Пьяный Лифтёр
-POHIWANA.ROM ПохожденияИвана
-PACMNCLR_new.ROM Pacman new
-parashut.rom Парашютисты
-PESCHER2.ROM Пещера
-pif-paf.rom Pif-Paf
-poddavki.rom Поддавки
-polygame.rom Polygame
-popcorn.rom Попкорн
-poprigun.rom Попрыгунчик
-posad06c.rom Посадка
-preda1im.rom Predator 1
-predato2.rom Predator
-pusher.rom Pusher
-poker.rom Покер
-polet.rom Полёт
-pool.rom Pool
-PREZID.ROM Президент
-profy1.rom Профи
-PRUZASOV.ROM ПрограммаУжасов
-psst.rom Psst
-push.rom Push
-putup.rom Putup
-pyr-df99.rom DeathInPyramid
-raider.rom Raider
-RAIDER2.ROM Raider2
-ranger.rom Ranger
-rc38.rom 3D rc38
-rc46.rom 3D rc46
-REVSEX1.ROM Sex Reversi1
-REVSEX2.ROM Sex Reversi2
-ROBBO1.ROM Robbo
-ROBBO2.ROM Robbo2
-ROBBO3.ROM Robbo3
-runner.rom Runner
-rembo.rom Rembo
-REVERSI.ROM Reversi
-riseout.rom Riseout
-robotek.rom Roboteka
-rockford.rom Rockford
-rockman.rom Rock Man
-rockman2.rom Rock Man2
-rockman16.rom Rock Man16
-rotors.rom Rotors
-RUNERMAN.ROM The Ranner Man
-runer_ok.rom Runner OK
-sabotaz.rom Саботаж
-SABOTEUR.ROM Saboteour
-salesman.rom Salesman
-samuray.rom Самурай
-sdemise.rom Spy's Demise
-seggs.rom Scramble Eggs
-SEXOR.ROM Sexor
-SHAHM1A.ROM Шахматы 1.1
-SHAHM2.ROM Chess-2
-SHAHM4.ROM Шахматы
-SEKA.ROM Сека
-semvinej.rom 7 Виней
-sexschol.rom Школа Секса
-sgibbon.rom Super Gibbon
 sharik.rom Шарик
-SHASHKI.ROM Русские Шашки
-sherly.rom Sherly
-shoptour.rom Shop Tour
+KLASSHES.ROM Шахматы
+SHAHM1A.ROM Шахматы 1.1
+SHAHM4.ROM Шахматы
 shturm.rom Штурм
-sidearm.rom Side Arm
-slalom.rom Слалом
-sland.rom Snare Land
-snake.rom Snake
-snake2.rom Snake2
-sokoban.rom Zoko-Ban
-SPMEGAIM.ROM Space Megatron
-stalker.rom Stalker
-starfighter.rom Starfighter
-stepjump.rom Step And Jump
-SOBDOG.ROM Sobdog
-sokoban_copy.rom Сокобан
-sokzamka.rom Сокровища Замка
-space-ts.rom Space TS
-spacesaf.rom СафариЗаВампирм
-spacewar.rom Звездные Войны
-spacop.rom Spacor
-SPECSHES.ROM Шахматы
-spichki.rom Спички
-spsmerti.rom Спутник Смерти
-sragen1.rom Сражение
-sragen2.rom Сражение 2
-sranger.rom Звездный Ренжер
-srazsnlo.rom Сражение с НЛО
-STARWARS.ROM Star Wars
-STINGER2.ROM Stinger 2
-stonkers.rom Stonkers
-superwea.rom Super Weapon
-SUPKALAH.ROM Супер Калах
-TANK.ROM Танк 
-tankbat.rom Tank Battalion
-tank2.rom Tank Battalion2
-tankwars.rom Tank Wars
-TARZAN.ROM New Tarzan
-tir.rom Тир
-tower.rom Tower
-turboudav.rom Турбоудав
-TUTANKH2.ROM Tutankhamun
-tennis_copy.rom Теннис
-terminus.rom Terminus
-tetris.rom Тетрис
-tetrisii.rom Тетрис II
-tetrisk.rom Tetris K
-tetriso.rom Тетрис-О
-tetrisok.rom Тетрис-ОК
-tetrisp.rom Тетрис-П
-TRANSMUT.ROM Trans Muter
-TRIP.ROM Trip
-tron.rom Tron
-trutni.rom Трутни
-udav_ok.rom Удав
-UGOLKI.ROM Уголки
-upriver.rom Up The River
-uzas1.rom Ужас 1
-uzas2.rom Ужас 2
-UZAS3.ROM Ужас 3
-vertolet.rom Вертолёт
-vodolaz.rom Водолаз
-voleybol.rom Волейбол
-vorishka.rom Воришка
-vozdshar.rom Воздушный Шар
-w1.rom Спрут,Кегельбан
-WAMPIRL.ROM Wampir Land
-warp.rom Warp, Warp
-westbank.rom West Bank
-xorz.rom Xorz
-xonix.rom Xonix
-XONIXS.ROM Xonix S
-xonixsn.rom Xonix SN
-xonix_copy.rom Xonix OK
-xyzolog.rom Xyzolog
-zamok.rom Замок
-zodiac.rom Zodiak
-ZONA.ROM Зона Будущего
-ZORYT.ROM Zoryt
-ZPLANETA.ROM Зеленая Планета
 animator21.rom Аниматор
 dekorator11.rom Декоратор
-REMBRANT.ROM Рембранд
 karandas.rom Карандаш
+REMBRANT.ROM Рембранд
+MICROGR.ROM Micrograf
 coman.rom Гр.ред. Coman
+masced.rom Гр.ред. Masc Ed
+M_UZOR.ROM Редактор узоров
+spraite.rom РедакторСпр-тов
+spted.rom Sprite Editor
 CHAR.ROM Ред.знакогенер.
+ekran.rom Экран
+organ1.rom Organ
+mad.rom Mad MusicEditor
+golos.rom Голос
+horus.rom Horus
+cmu.rom Цветомузыка
+ColorOfMusic.rom Color of Music
+cwmdelta.rom Цветомуз. Delta
+lmusic1.rom LightMusic
+lmusic2.rom LightMusic2
+CVM1.ROM Цветомузыка CVM1
+CVM2.ROM Цветомузыка CVM2
+notebook.rom Записная Книжка
+RETEX.ROM Retex Editor
+TEXTAS.ROM Texstas
+KTV.ROM Редактор текста
+profy1.rom Тренажёр Профи 
 bd.rom БД Эрис
+sip.rom Система Поиска
+elkubiki.rom Электр. Кубики
+autocw.rom Auto CW
+CW.ROM Терминалка
+pdt-112.rom Психол. Тест
+BIORITMY.ROM Биоритмы
+bioritm.rom Биоритмы2
+sexschol.rom Школа Секса
+SEXOR.ROM Sexor
 bas261.rom Basic 2.61
 bas262.rom Basic 2.62
 basicm.rom Basic M
 baskor.rom Basic Корвет
 basicsig.rom Basic ПО Сигнал
+reklama.r0m BAS Реклама
+INFOR-1.r0m BAS Inform 1     
+INFOR-2.r0m BAS Inform 2    
+t_ataka.r0m BAS Торп. атака
+kalah.r0m BAS Калах
+space_station.r0m BAS Space Stat.
+corpse.r0m BAS Corpse
+vitamino.r0m BAS Витамино     
 forth-83.rom Forth-83
 LSPAS-I.ROM ЛС-Паскаль инт.
 LSPAS-K.ROM ЛС-Паскаль ком.
-BIORITMY.ROM Биоритмы
-bioritm.rom Биоритмы2
+mon25c.rom Монитор 2.5
+mon26.rom Монитор 2.6
+mon28.rom Монитор 2.8
+mon40.rom Монитор 4
+smon35g.rom Супер Монитор3.5
+smon40.rom Супер Монитор4
+mon1200.rom Монитор 1200
+monpribm.rom Монитор Pribor
+monvz1.rom МониторВзломщик
+MONHEDM.ROM Monitor High
+rk86.rom Монитор РК-86
+micro_rk.rom Микроша-РК86
 testtp.rom Тест Техпрогона
 testustr.rom Тест Устройств
 brdtestx.rom Border Test
@@ -414,16 +445,7 @@ TESTAY.ROM Test AY
 TESTELD.ROM Test RAM Дождь
 testram.rom Test RAM
 fastpalprog.rom Тест FastPalPrg
-cmu.rom Цветомузыка
-ColorOfMusic.rom Color of Music
-cwmdelta.rom Цветомуз. Delta
-lmusic1.rom LightMusic
-lmusic2.rom LightMusic2
-CVM1.ROM Цветомузыка CVM1
-CVM2.ROM Цветомузыка CVM2
 copys.rom Copy S
-copysm.rom Copy SM
-copyt.rom Copy Tornado
 cpress3.rom Press3.3 copier
 goody.rom КопировщикGoody
 fttcopy.rom FTT Copy
@@ -432,34 +454,12 @@ turbo.rom Turbo Copy
 archiv13.rom Архиватор
 dilarh.rom Копир-Архватор
 copypack.rom Копир-упаковщик
-mon25c.rom Монитор 2.5
-mon26.rom Монитор 2.6
-mon28.rom Монитор 2.8
-mon40.rom Монитор 4
-smon35g.rom Супер Монитор3.5
-smon40.rom Супер Монитор4
-mon1200.rom Монитор 1200
-monpribm.rom Монитор Pribor
-monvz1.rom МониторВзломщик
-MONHEDM.ROM Monitor High
-rk86.rom Монитор РК-86
-micro_rk.rom Микроша-РК86
-notebook.rom Записная Книжка
-RETEX.ROM Retex Editor
-TEXTAS.ROM Texstas
-KTV.ROM Редактор текста
-ekran.rom Экран
-sip.rom Система Поиска
-voice.rom Voice
-horus.rom Horus
-masced.rom Гр.ред. Masc Ed
-M_UZOR.ROM Редактор узоров
-spraite.rom РедакторСпр-тов
-spted.rom Sprite Editor
-CW.ROM Терминалка
-autocw.rom Auto CW
+beverley.rom ВИ53 Демо
+gtoc64.rom ДемоPhaser c64
+object3d.rom Demo 3D Objects
+rc38.rom 3D demo rc38
+rc46.rom 3D demo rc46
 chip.rom Chip
-15rekl.rom Демо Реклама
 art.rom Демо Art
 art1.rom Демо Art 1
 art2.rom Демо Art 2
@@ -479,18 +479,16 @@ ART2-08.rom Демо Art2 8
 ART2-09.rom Демо Art2 9
 ART2-10.rom Демо Art2 10
 bazis.rom Демо Базис
+musworld.rom Демо Musworld
+sabrina.rom Демо Sabrina
 beatles.rom Демо Beatles
-billy.rom Демо Billy
 demon.rom Муз.демо Demon
 fancy.rom Муз.демо Fancy
 KRISTI.ROM Демо Kristi
 amiga.rom Демо Amiga
 accel2.rom Демо Accel2
 f29.rom Демо F29
-pasdemo.rom Демо Графика
 pgz.rom Демо ПГЗ
-pis.rom Демо PIS
-PLANET.ROM Демо Planet
 pmasha.rom Демо Maria
 realdemo.rom Демо Realdemo
 spiral.rom Демо Spiral
@@ -498,10 +496,6 @@ artsamar.rom Art Samara
 lyra2-3.rom Демо Lyra2-3
 message.rom MuzDemo
 man.rom Демо Man
-moon2.rom Демо Moon
 ollilisa.rom Демо Olli&Lissa
-byte2122.rom Byte Инфо-реклм
-musworld.rom Демо Musworld
-sabrina.rom Демо Sabrina
-
-beverley.rom ВИ53 Демо
+komar.rom Комар
+byte2122.rom Байт 21, 22

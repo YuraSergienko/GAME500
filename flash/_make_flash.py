@@ -1,10 +1,7 @@
-# для работы программы необходимо создать файл _list.txt
 # файл _list.txt содержит имя файла и название через пробел
 # имя файла не должно содержать пробелы
-# название может содержать пробелы, длина названия не более 16 символов
+# название может содержать пробелы
 # каждая строка должна заканчиваться ENTER
-# в результате успешной работы программы появится файл _flash.bin для записи в микросхему W25Q128
-
 import os.path
 import codecs
 
@@ -24,7 +21,7 @@ offset_file = 0
 for z in range(n_line):
     print('file number:',z)
     s = list_file.readline()                # читаем строку из файла
-    print(s)
+#    print(s)
     if s != '':                             # если строка пустая то пропускаем
         x1 = s.find("\n")                   # ищем позицию конца строки (enter)
         data = s[:x1]                       # отрезаем enter от строки
@@ -33,11 +30,13 @@ for z in range(n_line):
             file_name = data
             print(file_name)                # название будет такое же как имя файла
             game_name = file_name.ljust(15) # дополняем пробелами название игры до 15 символов
+#            print(game_name)                # название будет такое же как имя файла
         else:                               # название есть
             file_name = data[: x2]          # выделяем имя файла
             print(file_name)
             game_name = data[x2+1:]         # выделяем название игры
             game_name = game_name.ljust(15) # дополняем название пробелами до 15
+#	    print(game_name)
         s=''
         filesize = os.path.getsize(file_name)
 
@@ -158,7 +157,7 @@ flash_file.seek(0x1300)
 flash_file.write(fat)
 flash_file.close()  
 # запись файловой базы в файл 000_loader3.rom
-flash_file = open('000_loader3.rom', 'rb+')
+flash_file = open('_game500.rom', 'rb+')
 flash_file.seek(0x1200)
 flash_file.write(fat)
 flash_file.close()
