@@ -139,11 +139,15 @@ for z in range(n_line):
             game_len=0x01
         fat[z*20+18] = game_len
         print('game len in 0x2000:',game_len,'\n')
-
+        ftype = file_name.split('.')
 # копирование файла игры в флэш файл
         game_file = open(file_name, 'rb')
         d = game_file.read()
-        flash_file.seek(offset_file+0x100, 0)
+        if ftype[1].lower() == 'r0m':
+            flash_file.seek(offset_file+0x000, 0)
+        else:
+            flash_file.seek(offset_file+0x100, 0)
+
         flash_file.write(bytearray(d))
         game_file.close()
     else:

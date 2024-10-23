@@ -310,6 +310,7 @@ pesprizr.rom Пещера Призраков
 PITON.ROM Питон Успид
 pitong.rom Питон
 PLANETA.ROM Планета Птиц
+plyuk.rom Плюк
 poddavki.rom Поддавки
 poker.rom Покер
 polet.rom Полёт
@@ -445,7 +446,6 @@ TESTAY.ROM Test AY
 TESTELD.ROM Test RAM Дождь
 testram.rom Test RAM
 fastpalprog.rom Тест FastPalPrg
-copys.rom Copy S
 cpress3.rom Press3.3 copier
 goody.rom КопировщикGoody
 fttcopy.rom FTT Copy
