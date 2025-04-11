@@ -1522,23 +1522,23 @@ END GROUP
                 0x0000000020005000                PROVIDE (_eusrstack = .)
 OUTPUT(game500.elf elf32-littleriscv)
 
-.debug_info     0x0000000000000000     0x6a66
+.debug_info     0x0000000000000000     0x6a67
  .debug_info    0x0000000000000000      0xb15 ./User/ch32v10x_it.o
- .debug_info    0x0000000000000b15     0x1981 ./User/main.o
- .debug_info    0x0000000000002496      0xdb7 ./User/system_ch32v10x.o
- .debug_info    0x000000000000324d       0x22 ./Startup/startup_ch32v10x.o
- .debug_info    0x000000000000326f     0x12e7 ./Peripheral/src/ch32v10x_gpio.o
- .debug_info    0x0000000000004556     0x139e ./Peripheral/src/ch32v10x_rcc.o
- .debug_info    0x00000000000058f4     0x1172 ./Debug/debug.o
+ .debug_info    0x0000000000000b15     0x1982 ./User/main.o
+ .debug_info    0x0000000000002497      0xdb7 ./User/system_ch32v10x.o
+ .debug_info    0x000000000000324e       0x22 ./Startup/startup_ch32v10x.o
+ .debug_info    0x0000000000003270     0x12e7 ./Peripheral/src/ch32v10x_gpio.o
+ .debug_info    0x0000000000004557     0x139e ./Peripheral/src/ch32v10x_rcc.o
+ .debug_info    0x00000000000058f5     0x1172 ./Debug/debug.o
 
-.debug_abbrev   0x0000000000000000     0x1151
+.debug_abbrev   0x0000000000000000     0x1162
  .debug_abbrev  0x0000000000000000      0x1d4 ./User/ch32v10x_it.o
- .debug_abbrev  0x00000000000001d4      0x331 ./User/main.o
- .debug_abbrev  0x0000000000000505      0x2c5 ./User/system_ch32v10x.o
- .debug_abbrev  0x00000000000007ca       0x12 ./Startup/startup_ch32v10x.o
- .debug_abbrev  0x00000000000007dc      0x33d ./Peripheral/src/ch32v10x_gpio.o
- .debug_abbrev  0x0000000000000b19      0x356 ./Peripheral/src/ch32v10x_rcc.o
- .debug_abbrev  0x0000000000000e6f      0x2e2 ./Debug/debug.o
+ .debug_abbrev  0x00000000000001d4      0x342 ./User/main.o
+ .debug_abbrev  0x0000000000000516      0x2c5 ./User/system_ch32v10x.o
+ .debug_abbrev  0x00000000000007db       0x12 ./Startup/startup_ch32v10x.o
+ .debug_abbrev  0x00000000000007ed      0x33d ./Peripheral/src/ch32v10x_gpio.o
+ .debug_abbrev  0x0000000000000b2a      0x356 ./Peripheral/src/ch32v10x_rcc.o
+ .debug_abbrev  0x0000000000000e80      0x2e2 ./Debug/debug.o
 
 .debug_aranges  0x0000000000000000      0x2f0
  .debug_aranges

@@ -148,6 +148,7 @@ MODE1:
         GPIO_SetBits(GPIOA, LED_G);
         GPIO_SetBits(GPIOA, LED_B);
     }
+
 }
 
 //--------------------------------------------------------------------------- subroutines
@@ -246,7 +247,7 @@ void flash_init1(void)
         GPIO_SetBits(GPIOB, SPI_CS);
         GPIO_ResetBits(GPIOB, SPI_DI);
         GPIO_ResetBits(GPIOB, SPI_CLK);
-        Delay_Ms(1);
+        Delay_Ms(2);
 }
 
 //------------------------------- read byte from flash
@@ -327,6 +328,7 @@ void write_PU2(uint8_t write_data)
     PU_data_out |= ((write_data & 0x40) << 5);
     PU_data_out |= ((write_data & 0x80) << 5);
     PU_data_out |= LED_G;
+
     GPIOA->OUTDR = (uint32_t)PU_data_out;
     return;
 }

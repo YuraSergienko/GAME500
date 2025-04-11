@@ -33,23 +33,23 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
   8 .stack        00000800  20004800  20004800  00003800  2**0
                   ALLOC
-  9 .debug_info   00006a66  00000000  00000000  00003008  2**0
+  9 .debug_info   00006a67  00000000  00000000  00003008  2**0
                   CONTENTS, READONLY, DEBUGGING
- 10 .debug_abbrev 00001151  00000000  00000000  00009a6e  2**0
+ 10 .debug_abbrev 00001162  00000000  00000000  00009a6f  2**0
                   CONTENTS, READONLY, DEBUGGING
- 11 .debug_aranges 000002f0  00000000  00000000  0000abc0  2**3
+ 11 .debug_aranges 000002f0  00000000  00000000  0000abd8  2**3
                   CONTENTS, READONLY, DEBUGGING
- 12 .debug_ranges 000002a8  00000000  00000000  0000aeb0  2**3
+ 12 .debug_ranges 000002a8  00000000  00000000  0000aec8  2**3
                   CONTENTS, READONLY, DEBUGGING
- 13 .debug_line   00004aa9  00000000  00000000  0000b158  2**0
+ 13 .debug_line   00004aa9  00000000  00000000  0000b170  2**0
                   CONTENTS, READONLY, DEBUGGING
- 14 .debug_str    00001303  00000000  00000000  0000fc01  2**0
+ 14 .debug_str    00001303  00000000  00000000  0000fc19  2**0
                   CONTENTS, READONLY, DEBUGGING
- 15 .comment      00000033  00000000  00000000  00010f04  2**0
+ 15 .comment      00000033  00000000  00000000  00010f1c  2**0
                   CONTENTS, READONLY
- 16 .debug_frame  000005f8  00000000  00000000  00010f38  2**2
+ 16 .debug_frame  000005f8  00000000  00000000  00010f50  2**2
                   CONTENTS, READONLY, DEBUGGING
- 17 .debug_loc    00001373  00000000  00000000  00011530  2**0
+ 17 .debug_loc    00001373  00000000  00000000  00011548  2**0
                   CONTENTS, READONLY, DEBUGGING
 SYMBOL TABLE:
 00000000 l    d  .init	00000000 .init
@@ -482,7 +482,7 @@ Disassembly of section .text:
      32c:	6589                	lui	a1,0x2
      32e:	c0048513          	addi	a0,s1,-1024
      332:	0a5000ef          	jal	ra,bd6 <GPIO_ResetBits>
-     336:	4505                	li	a0,1
+     336:	4509                	li	a0,2
      338:	1a5000ef          	jal	ra,cdc <Delay_Ms>
      33c:	b5b9                	j	18a <__riscv_restore_4>
      33e:	099000ef          	jal	ra,bd6 <GPIO_ResetBits>
