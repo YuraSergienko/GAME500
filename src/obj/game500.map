@@ -109,8 +109,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000      0x148 ./Peripheral/src/ch32v10x_adc.o
  .debug_ranges  0x0000000000000000      0x138 ./Peripheral/src/ch32v10x_adc.o
- .debug_line    0x0000000000000000     0x177f ./Peripheral/src/ch32v10x_adc.o
- .debug_str     0x0000000000000000      0xd5b ./Peripheral/src/ch32v10x_adc.o
+ .debug_line    0x0000000000000000     0x17af ./Peripheral/src/ch32v10x_adc.o
+ .debug_str     0x0000000000000000      0xd6b ./Peripheral/src/ch32v10x_adc.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_adc.o
  .debug_frame   0x0000000000000000      0x2a4 ./Peripheral/src/ch32v10x_adc.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_bkp.o
@@ -146,8 +146,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x78 ./Peripheral/src/ch32v10x_bkp.o
  .debug_ranges  0x0000000000000000       0x68 ./Peripheral/src/ch32v10x_bkp.o
- .debug_line    0x0000000000000000      0x607 ./Peripheral/src/ch32v10x_bkp.o
- .debug_str     0x0000000000000000      0xc10 ./Peripheral/src/ch32v10x_bkp.o
+ .debug_line    0x0000000000000000      0x637 ./Peripheral/src/ch32v10x_bkp.o
+ .debug_str     0x0000000000000000      0xc20 ./Peripheral/src/ch32v10x_bkp.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_bkp.o
  .debug_frame   0x0000000000000000       0xec ./Peripheral/src/ch32v10x_bkp.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_crc.o
@@ -171,8 +171,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x48 ./Peripheral/src/ch32v10x_crc.o
  .debug_ranges  0x0000000000000000       0x38 ./Peripheral/src/ch32v10x_crc.o
- .debug_line    0x0000000000000000      0x387 ./Peripheral/src/ch32v10x_crc.o
- .debug_str     0x0000000000000000      0x7e6 ./Peripheral/src/ch32v10x_crc.o
+ .debug_line    0x0000000000000000      0x3a7 ./Peripheral/src/ch32v10x_crc.o
+ .debug_str     0x0000000000000000      0x7f6 ./Peripheral/src/ch32v10x_crc.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_crc.o
  .debug_frame   0x0000000000000000       0x70 ./Peripheral/src/ch32v10x_crc.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_dbgmcu.o
@@ -192,8 +192,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x38 ./Peripheral/src/ch32v10x_dbgmcu.o
  .debug_ranges  0x0000000000000000       0x28 ./Peripheral/src/ch32v10x_dbgmcu.o
- .debug_line    0x0000000000000000      0x367 ./Peripheral/src/ch32v10x_dbgmcu.o
- .debug_str     0x0000000000000000      0x7a1 ./Peripheral/src/ch32v10x_dbgmcu.o
+ .debug_line    0x0000000000000000      0x397 ./Peripheral/src/ch32v10x_dbgmcu.o
+ .debug_str     0x0000000000000000      0x7b1 ./Peripheral/src/ch32v10x_dbgmcu.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_dbgmcu.o
  .debug_frame   0x0000000000000000       0x50 ./Peripheral/src/ch32v10x_dbgmcu.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_dma.o
@@ -226,8 +226,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x60 ./Peripheral/src/ch32v10x_dma.o
  .debug_ranges  0x0000000000000000       0x50 ./Peripheral/src/ch32v10x_dma.o
- .debug_line    0x0000000000000000      0x846 ./Peripheral/src/ch32v10x_dma.o
- .debug_str     0x0000000000000000      0x95e ./Peripheral/src/ch32v10x_dma.o
+ .debug_line    0x0000000000000000      0x876 ./Peripheral/src/ch32v10x_dma.o
+ .debug_str     0x0000000000000000      0x96e ./Peripheral/src/ch32v10x_dma.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_dma.o
  .debug_frame   0x0000000000000000       0xd8 ./Peripheral/src/ch32v10x_dma.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_exti.o
@@ -255,8 +255,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x50 ./Peripheral/src/ch32v10x_exti.o
  .debug_ranges  0x0000000000000000       0x40 ./Peripheral/src/ch32v10x_exti.o
- .debug_line    0x0000000000000000      0x573 ./Peripheral/src/ch32v10x_exti.o
- .debug_str     0x0000000000000000      0x8f8 ./Peripheral/src/ch32v10x_exti.o
+ .debug_line    0x0000000000000000      0x5a3 ./Peripheral/src/ch32v10x_exti.o
+ .debug_str     0x0000000000000000      0x908 ./Peripheral/src/ch32v10x_exti.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_exti.o
  .debug_frame   0x0000000000000000       0x90 ./Peripheral/src/ch32v10x_exti.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_flash.o
@@ -342,8 +342,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000      0x120 ./Peripheral/src/ch32v10x_flash.o
  .debug_ranges  0x0000000000000000      0x110 ./Peripheral/src/ch32v10x_flash.o
- .debug_line    0x0000000000000000     0x1ec4 ./Peripheral/src/ch32v10x_flash.o
- .debug_str     0x0000000000000000      0xcc3 ./Peripheral/src/ch32v10x_flash.o
+ .debug_line    0x0000000000000000     0x1ef4 ./Peripheral/src/ch32v10x_flash.o
+ .debug_str     0x0000000000000000      0xcd3 ./Peripheral/src/ch32v10x_flash.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_flash.o
  .debug_frame   0x0000000000000000      0x390 ./Peripheral/src/ch32v10x_flash.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_gpio.o
@@ -451,8 +451,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000      0x110 ./Peripheral/src/ch32v10x_i2c.o
  .debug_ranges  0x0000000000000000      0x100 ./Peripheral/src/ch32v10x_i2c.o
- .debug_line    0x0000000000000000     0x10da ./Peripheral/src/ch32v10x_i2c.o
- .debug_str     0x0000000000000000      0xc4b ./Peripheral/src/ch32v10x_i2c.o
+ .debug_line    0x0000000000000000     0x110a ./Peripheral/src/ch32v10x_i2c.o
+ .debug_str     0x0000000000000000      0xc5b ./Peripheral/src/ch32v10x_i2c.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_i2c.o
  .debug_frame   0x0000000000000000      0x264 ./Peripheral/src/ch32v10x_i2c.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_iwdg.o
@@ -476,8 +476,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x48 ./Peripheral/src/ch32v10x_iwdg.o
  .debug_ranges  0x0000000000000000       0x38 ./Peripheral/src/ch32v10x_iwdg.o
- .debug_line    0x0000000000000000      0x392 ./Peripheral/src/ch32v10x_iwdg.o
- .debug_str     0x0000000000000000      0x861 ./Peripheral/src/ch32v10x_iwdg.o
+ .debug_line    0x0000000000000000      0x3c2 ./Peripheral/src/ch32v10x_iwdg.o
+ .debug_str     0x0000000000000000      0x871 ./Peripheral/src/ch32v10x_iwdg.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_iwdg.o
  .debug_frame   0x0000000000000000       0x70 ./Peripheral/src/ch32v10x_iwdg.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_misc.o
@@ -495,8 +495,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x28 ./Peripheral/src/ch32v10x_misc.o
  .debug_ranges  0x0000000000000000       0x30 ./Peripheral/src/ch32v10x_misc.o
- .debug_line    0x0000000000000000      0x3fb ./Peripheral/src/ch32v10x_misc.o
- .debug_str     0x0000000000000000      0xb54 ./Peripheral/src/ch32v10x_misc.o
+ .debug_line    0x0000000000000000      0x42b ./Peripheral/src/ch32v10x_misc.o
+ .debug_str     0x0000000000000000      0xb64 ./Peripheral/src/ch32v10x_misc.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_misc.o
  .debug_frame   0x0000000000000000       0x30 ./Peripheral/src/ch32v10x_misc.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_pwr.o
@@ -528,8 +528,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x68 ./Peripheral/src/ch32v10x_pwr.o
  .debug_ranges  0x0000000000000000       0xc8 ./Peripheral/src/ch32v10x_pwr.o
- .debug_line    0x0000000000000000      0x6c7 ./Peripheral/src/ch32v10x_pwr.o
- .debug_str     0x0000000000000000      0x996 ./Peripheral/src/ch32v10x_pwr.o
+ .debug_line    0x0000000000000000      0x707 ./Peripheral/src/ch32v10x_pwr.o
+ .debug_str     0x0000000000000000      0x9a6 ./Peripheral/src/ch32v10x_pwr.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_pwr.o
  .debug_frame   0x0000000000000000       0xcc ./Peripheral/src/ch32v10x_pwr.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_rcc.o
@@ -628,8 +628,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x80 ./Peripheral/src/ch32v10x_rtc.o
  .debug_ranges  0x0000000000000000       0x70 ./Peripheral/src/ch32v10x_rtc.o
- .debug_line    0x0000000000000000      0x942 ./Peripheral/src/ch32v10x_rtc.o
- .debug_str     0x0000000000000000      0x971 ./Peripheral/src/ch32v10x_rtc.o
+ .debug_line    0x0000000000000000      0x972 ./Peripheral/src/ch32v10x_rtc.o
+ .debug_str     0x0000000000000000      0x981 ./Peripheral/src/ch32v10x_rtc.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_rtc.o
  .debug_frame   0x0000000000000000      0x12c ./Peripheral/src/ch32v10x_rtc.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_spi.o
@@ -685,8 +685,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0xd0 ./Peripheral/src/ch32v10x_spi.o
  .debug_ranges  0x0000000000000000       0xc0 ./Peripheral/src/ch32v10x_spi.o
- .debug_line    0x0000000000000000      0xccd ./Peripheral/src/ch32v10x_spi.o
- .debug_str     0x0000000000000000      0xbeb ./Peripheral/src/ch32v10x_spi.o
+ .debug_line    0x0000000000000000      0xcfd ./Peripheral/src/ch32v10x_spi.o
+ .debug_str     0x0000000000000000      0xbfb ./Peripheral/src/ch32v10x_spi.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_spi.o
  .debug_frame   0x0000000000000000      0x1a8 ./Peripheral/src/ch32v10x_spi.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_tim.o
@@ -875,8 +875,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000      0x2d0 ./Peripheral/src/ch32v10x_tim.o
  .debug_ranges  0x0000000000000000      0x2f0 ./Peripheral/src/ch32v10x_tim.o
- .debug_line    0x0000000000000000     0x30b9 ./Peripheral/src/ch32v10x_tim.o
- .debug_str     0x0000000000000000     0x13e6 ./Peripheral/src/ch32v10x_tim.o
+ .debug_line    0x0000000000000000     0x30e9 ./Peripheral/src/ch32v10x_tim.o
+ .debug_str     0x0000000000000000     0x13f6 ./Peripheral/src/ch32v10x_tim.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_tim.o
  .debug_frame   0x0000000000000000      0x614 ./Peripheral/src/ch32v10x_tim.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_usart.o
@@ -942,8 +942,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0xf0 ./Peripheral/src/ch32v10x_usart.o
  .debug_ranges  0x0000000000000000       0xe0 ./Peripheral/src/ch32v10x_usart.o
- .debug_line    0x0000000000000000      0xe33 ./Peripheral/src/ch32v10x_usart.o
- .debug_str     0x0000000000000000      0xc55 ./Peripheral/src/ch32v10x_usart.o
+ .debug_line    0x0000000000000000      0xe63 ./Peripheral/src/ch32v10x_usart.o
+ .debug_str     0x0000000000000000      0xc65 ./Peripheral/src/ch32v10x_usart.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_usart.o
  .debug_frame   0x0000000000000000      0x1e4 ./Peripheral/src/ch32v10x_usart.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_usb.o
@@ -986,8 +986,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x58 ./Peripheral/src/ch32v10x_usb.o
  .debug_ranges  0x0000000000000000       0x48 ./Peripheral/src/ch32v10x_usb.o
- .debug_line    0x0000000000000000      0x655 ./Peripheral/src/ch32v10x_usb.o
- .debug_str     0x0000000000000000      0x79e ./Peripheral/src/ch32v10x_usb.o
+ .debug_line    0x0000000000000000      0x675 ./Peripheral/src/ch32v10x_usb.o
+ .debug_str     0x0000000000000000      0x7ae ./Peripheral/src/ch32v10x_usb.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_usb.o
  .debug_frame   0x0000000000000000       0x90 ./Peripheral/src/ch32v10x_usb.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_usb_host.o
@@ -1065,8 +1065,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0xc8 ./Peripheral/src/ch32v10x_usb_host.o
  .debug_ranges  0x0000000000000000       0xd8 ./Peripheral/src/ch32v10x_usb_host.o
- .debug_line    0x0000000000000000     0x18b7 ./Peripheral/src/ch32v10x_usb_host.o
- .debug_str     0x0000000000000000      0xc08 ./Peripheral/src/ch32v10x_usb_host.o
+ .debug_line    0x0000000000000000     0x18e7 ./Peripheral/src/ch32v10x_usb_host.o
+ .debug_str     0x0000000000000000      0xc18 ./Peripheral/src/ch32v10x_usb_host.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_usb_host.o
  .debug_frame   0x0000000000000000      0x2bc ./Peripheral/src/ch32v10x_usb_host.o
  .text          0x0000000000000000        0x0 ./Peripheral/src/ch32v10x_wwdg.o
@@ -1094,8 +1094,8 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x58 ./Peripheral/src/ch32v10x_wwdg.o
  .debug_ranges  0x0000000000000000       0x48 ./Peripheral/src/ch32v10x_wwdg.o
- .debug_line    0x0000000000000000      0x436 ./Peripheral/src/ch32v10x_wwdg.o
- .debug_str     0x0000000000000000      0x81d ./Peripheral/src/ch32v10x_wwdg.o
+ .debug_line    0x0000000000000000      0x466 ./Peripheral/src/ch32v10x_wwdg.o
+ .debug_str     0x0000000000000000      0x82d ./Peripheral/src/ch32v10x_wwdg.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_wwdg.o
  .debug_frame   0x0000000000000000       0xa4 ./Peripheral/src/ch32v10x_wwdg.o
  .text          0x0000000000000000        0x0 ./Debug/debug.o
@@ -1565,29 +1565,29 @@ OUTPUT(game500.elf elf32-littleriscv)
  .debug_ranges  0x0000000000000160      0x108 ./Peripheral/src/ch32v10x_rcc.o
  .debug_ranges  0x0000000000000268       0x40 ./Debug/debug.o
 
-.debug_line     0x0000000000000000     0x4989
- .debug_line    0x0000000000000000      0x24b ./User/ch32v10x_it.o
- .debug_line    0x000000000000024b     0x1a6a ./User/main.o
- .debug_line    0x0000000000001cb5      0x662 ./User/system_ch32v10x.o
- .debug_line    0x0000000000002317      0x21e ./Startup/startup_ch32v10x.o
- .debug_line    0x0000000000002535      0xd3f ./Peripheral/src/ch32v10x_gpio.o
- .debug_line    0x0000000000003274     0x1041 ./Peripheral/src/ch32v10x_rcc.o
- .debug_line    0x00000000000042b5      0x6d4 ./Debug/debug.o
+.debug_line     0x0000000000000000     0x4aa9
+ .debug_line    0x0000000000000000      0x26b ./User/ch32v10x_it.o
+ .debug_line    0x000000000000026b     0x1aaa ./User/main.o
+ .debug_line    0x0000000000001d15      0x692 ./User/system_ch32v10x.o
+ .debug_line    0x00000000000023a7      0x21e ./Startup/startup_ch32v10x.o
+ .debug_line    0x00000000000025c5      0xd6f ./Peripheral/src/ch32v10x_gpio.o
+ .debug_line    0x0000000000003334     0x1071 ./Peripheral/src/ch32v10x_rcc.o
+ .debug_line    0x00000000000043a5      0x704 ./Debug/debug.o
 
-.debug_str      0x0000000000000000     0x12f3
- .debug_str     0x0000000000000000      0x6b4 ./User/ch32v10x_it.o
-                                        0x721 (size before relaxing)
- .debug_str     0x00000000000006b4      0x370 ./User/main.o
-                                        0xa79 (size before relaxing)
- .debug_str     0x0000000000000a24      0x12d ./User/system_ch32v10x.o
-                                        0x85e (size before relaxing)
- .debug_str     0x0000000000000b51       0x3a ./Startup/startup_ch32v10x.o
- .debug_str     0x0000000000000b8b      0x217 ./Peripheral/src/ch32v10x_gpio.o
-                                        0xae5 (size before relaxing)
- .debug_str     0x0000000000000da2      0x34d ./Peripheral/src/ch32v10x_rcc.o
-                                        0xbe8 (size before relaxing)
- .debug_str     0x00000000000010ef      0x204 ./Debug/debug.o
-                                        0xad0 (size before relaxing)
+.debug_str      0x0000000000000000     0x1303
+ .debug_str     0x0000000000000000      0x6c4 ./User/ch32v10x_it.o
+                                        0x731 (size before relaxing)
+ .debug_str     0x00000000000006c4      0x370 ./User/main.o
+                                        0xa89 (size before relaxing)
+ .debug_str     0x0000000000000a34      0x12d ./User/system_ch32v10x.o
+                                        0x86e (size before relaxing)
+ .debug_str     0x0000000000000b61       0x3a ./Startup/startup_ch32v10x.o
+ .debug_str     0x0000000000000b9b      0x217 ./Peripheral/src/ch32v10x_gpio.o
+                                        0xaf5 (size before relaxing)
+ .debug_str     0x0000000000000db2      0x34d ./Peripheral/src/ch32v10x_rcc.o
+                                        0xbf8 (size before relaxing)
+ .debug_str     0x00000000000010ff      0x204 ./Debug/debug.o
+                                        0xae0 (size before relaxing)
 
 .comment        0x0000000000000000       0x33
  .comment       0x0000000000000000       0x33 ./User/ch32v10x_it.o

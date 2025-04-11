@@ -53,7 +53,7 @@ all: game500.elf secondary-outputs
 
 # Tool invocations
 game500.elf: $(OBJS) $(USER_OBJS)
-	@	@	riscv-none-embed-gcc -march=rv32imac -mabi=ilp32 -msmall-data-limit=8 -msave-restore -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized  -g -T "D:\_1\Ld\Link.ld" -nostartfiles -Xlinker --gc-sections -Wl,-Map,"game500.map" --specs=nano.specs --specs=nosys.specs -o "game500.elf" $(OBJS) $(USER_OBJS) $(LIBS)
+	@	@	riscv-none-embed-gcc -march=rv32imac -mabi=ilp32 -msmall-data-limit=8 -msave-restore -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized  -g -T "D:\GitHub\GAME500\src\Ld\Link.ld" -nostartfiles -Xlinker --gc-sections -Wl,-Map,"game500.map" --specs=nano.specs --specs=nosys.specs -o "game500.elf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@	@
 game500.hex: game500.elf
 	@	riscv-none-embed-objcopy -O ihex "game500.elf"  "game500.hex"
